@@ -38,9 +38,6 @@ These quantum techniques are optimized for **Noisy Intermediate-Scale Quantum (N
 ### **Paper Preprint**
 The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2405.14405).
 
-### **Link to Official repo in Qiskit**
-The official repository is implemented in Qiskit [GitHub](https://github.com/supreethmv/NISQ-Seg)
-
 ---
 
 Explore the different encoding methods by running the provided Jupyter notebooks:
@@ -64,6 +61,9 @@ If you find this code useful in your research, please cite the following paper:
   doi={10.1109/QCE60285.2024.00059}
   }
 ```
+
+### **Link to official repo**
+The official repository is implemented in Qiskit: Available at [GitHub](https://github.com/supreethmv/NISQ-Seg)
 
 ---
 
