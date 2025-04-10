@@ -40,7 +40,7 @@ The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2405.14405).
 
 ---
 
-Explore the different encoding methods by running the provided Jupyter notebooks:
+Explore the different encoding methods by running the provided Jupyter notebook:
 
 - `tutorial.ipynb`: A walkthrough of the image segmentation pipeline for a 4x4 image.
 
