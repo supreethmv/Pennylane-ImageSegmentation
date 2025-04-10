@@ -7,9 +7,12 @@
 [![LinkedIn: SupreethMV](https://img.shields.io/badge/LinkedIn-Supreeth%20Mysore%20Venkatesh-blue)](https://www.linkedin.com/in/supreethmv/)  
 [![Website: SupreethMV](https://img.shields.io/badge/Website-www.supreethmv.com-brightgreen)](https://www.supreethmv.com)
 
-<div align="center">
-  <img src="_repo_data/vqa-segmentation.png" alt="VQA Segmentation Overview" width="700">
-</div>
+<figure>
+  <img src="_repo_data/vqa-segmentation.png" alt="VQA Segmentation Overview" width="600">
+  <figcaption>
+    Architecture for segmenting an image by transforming it into a graph and solving the corresponding minimum cut as a QUBO problem using variational quantum circuits
+  </figcaption>
+</figure>
 
 ---
 
@@ -17,9 +20,12 @@
 
 Welcome to **NISQ-Seg**, the official repository for the paper **"Qubit-efficient Variational Quantum Algorithms for Image Segmentation"**, accepted at the Quantum Computing and Engineering 2024 (QCE'24) conference by IEEE. This repository provides the full pipeline for reproducing the experimental results and demonstrations of the three primary encoding methods introduced in the paper:
 
-<div align="center">
-  <img src="_repo_data/pipeline_overview.png" alt="VQA Segmentation Overview" width="700">
-</div>
+<figure>
+  <img src="_repo_data/pipeline_overview.png" alt="VQA Segmentation Overview" width="600">
+  <figcaption>
+    Image is converted to an undirected weighted graph with similarity of the pixels as the edge weight metric, then solving the minimum cut obtains the segmentation of the image.</a>
+  </figcaption>
+</figure>
 
 
 1. **Parametric Gate Encoding (PGE)**
