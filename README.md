@@ -32,21 +32,14 @@ These quantum techniques are optimized for **Noisy Intermediate-Scale Quantum (N
 ### **Paper Preprint**
 The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2405.14405).
 
+### **Link to Official repo in Qiskit**
+The official repository is implemented in Qiskit [GitHub](https://github.com/supreethmv/NISQ-Seg)
+
 ---
 
 Explore the different encoding methods by running the provided Jupyter notebooks:
 
 - `tutorial.ipynb`: A walkthrough of the image segmentation pipeline for a 4x4 image.
-
-<div align="center">
-  <img src="_repo_data/example_2x2.jpg" alt="VQA Segmentation Overview" width="700">
-</div>
-
----
-
-<div align="center">
-  <img src="_repo_data/ABE_ACE.png" alt="VQA Segmentation Overview" width="700">
-</div>
 
 ---
 
