@@ -33,18 +33,15 @@ Welcome to **NISQ-Seg**, the official repository for the paper **"Qubit-efficien
 3. **Adaptive Cost Encoding (ACE)**
 
 
-These quantum techniques are optimized for **Noisy Intermediate-Scale Quantum (NISQ)** devices and demonstrate efficient qubit usage for **graph-based image segmentation** tasks.
+These quantum techniques are optimized for **Noisy Intermediate-Scale Quantum (NISQ)** devices and demonstrate efficient
+qubit usage for **graph-based image segmentation** tasks. You can explore the different encoding methods by running the
+provided Jupyter notebook ([`tutorial.ipynb`](https://github.com/cognigami/supreeth-imageseg/blob/main/tutorial.ipynb)).
+
 
 ### **Paper Preprint**
-The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2405.14405).
+The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2405.14405). The original implementation (in Qiskit) is
+also available on [GitHub](https://github.com/supreethmv/NISQ-Seg)
 
----
-
-Explore the different encoding methods by running the provided Jupyter notebook:
-
-- `tutorial.ipynb`: A walkthrough of the image segmentation pipeline for a 4x4 image.
-
----
 
 ## **Citing this Work**
 
@@ -61,9 +58,6 @@ If you find this code useful in your research, please cite the following paper:
   doi={10.1109/QCE60285.2024.00059}
   }
 ```
-
-### **Link to official repo**
-The official repository is implemented in Qiskit: Available at [GitHub](https://github.com/supreethmv/NISQ-Seg)
 
 ---
 
